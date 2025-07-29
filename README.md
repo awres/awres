@@ -66,38 +66,6 @@ const awres = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awres&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awres&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awres&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Web Application Design Task](https://github-readme-stats.vercel.app/api/pin/?username=awres&repo=Web-application-design-Task&theme=radical&hide_border=true)](https://github.com/awres/Web-application-design-Task)
-
-[![React GoogleMap Table](https://github-readme-stats.vercel.app/api/pin/?username=awres&repo=React-GoogleMap-Table&theme=radical&hide_border=true)](https://github.com/awres/React-GoogleMap-Table)
-
-[![Warehouse Management System](https://github-readme-stats.vercel.app/api/pin/?username=awres&repo=WarehouseManagementSystem&theme=radical&hide_border=true)](https://github.com/awres/WarehouseManagementSystem)
-
-[![Mate Chess](https://github-readme-stats.vercel.app/api/pin/?username=awres&repo=mate-chess.pl&theme=radical&hide_border=true)](https://github.com/awres/mate-chess.pl)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -108,41 +76,17 @@ const awres = {
 - 🌱 I'm currently learning **new technologies and frameworks**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, React, Node.js, or anything tech-related**
-- ⚡ Fun fact: **I really like gym and turning bugs into features!** 💪
+- ⚡ Fun fact: **I really like the gym and turning bugs into features!** 💪
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=awres&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=awres&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350" />
-</div>
-
----
 
 ## 🤝 Connect with me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awres)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/awres)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/awres)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/awrezi)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/awres)
 
 </div>
@@ -170,27 +114,4 @@ const awres = {
 </div>
 ```
 
-Ten README zawiera:
-
-🎨 **Cool elementy:**
-- Animowany nagłówek z efektem pisania
-- Kolorowe GIFy i animacje
-- Nowoczesne badges i ikony
-- GitHub stats z ciemnym motywem
-- Trofea i wykresy aktywności
-
-🚀 **Funkcjonalności:**
-- Sekcja "About Me" w stylu kodu TypeScript
-- Showcase Twoich projektów
-- Tech stack z kolorowymi badges
-- Statystyki GitHub
-- Linki do social media
-- Licznik odwiedzin profilu
-
-💪 **Polskie akcenty:**
-- Flaga Polski 🇵🇱
-- Odniesienia do siłowni (jak w Twoim profilu)
-- "Creating bugs since 2020" - z humorem!
-
-Skopiuj ten kod do pliku `README.md` w swoim głównym repozytorium GitHub (tym o nazwie `awres`). Pamiętaj, żeby dostosować linki do social media do swoich prawdziwych profili!
 
