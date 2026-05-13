@@ -64,22 +64,6 @@ const awres = {
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
-</div>
-
-- 🔭 I'm currently working on **awesome web applications**
-- 🌱 I'm currently learning **new technologies and frameworks**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **JavaScript, React, Node.js, or anything tech-related**
-- ⚡ Fun fact: **I really like the gym and turning bugs into features!** 💪
-
----
-
 
 ## 🤝 Connect with me
 
